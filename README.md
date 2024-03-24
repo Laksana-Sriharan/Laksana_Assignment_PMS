@@ -1,4 +1,4 @@
-🚀 Welcome to [Your Product Management System Name] 🚀
+🚀 Product Management System  🚀
 
 Product Management System is a comprehensive web application developed using Laravel, designed to streamline and enhance the product management process.<br> 
 
